@@ -35,7 +35,7 @@ tokenBasicAuthMechanism:
 # Basic Authentication
 # see https://restheart.org/docs/security/authentication#basic-authentication
 basicAuthMechanism:
-  enabled: true
+  enabled: false
   authenticator: mongoRealmAuthenticator
 
 # JSON Web Token Authentication

@@ -1,0 +1,2 @@
+FROM restheart/restheart:latest
+EXPOSE 8080
